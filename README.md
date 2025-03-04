@@ -4,4 +4,3 @@
 <h3 align="center">Software Engineer at Syndigo, Experienced in Big Data technologies.</h3>
 
 - 📫 How to reach me **mdany2k@gmail.com**
-
