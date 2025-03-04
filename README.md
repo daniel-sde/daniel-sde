@@ -5,4 +5,3 @@
 
 - 📫 How to reach me **mdany2k@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-sde&show_icons=true&locale=en" alt="Daniel M" /></p>
