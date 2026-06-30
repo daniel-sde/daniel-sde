@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-sde&label=Profile%20views&color=0e75b6&style=flat" alt="Daniel M" /> </p>
 
 # 💫 About Me:
-Software Engineer at Syndigo, Experienced in Big Data technologies.
+Senior Software Engineer at Syndigo, Experienced in Big Data technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-m-20a096219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdany2k@gmail.com) 
