@@ -11,7 +11,7 @@ Software Engineer at Syndigo, Experienced in Big Data technologies.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=daniel-sde&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=daniel-sde&theme=radical&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=daniel-sde&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sde&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
